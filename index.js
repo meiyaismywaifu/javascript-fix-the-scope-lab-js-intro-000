@@ -36,4 +36,3 @@ var theFunk = funkyFunction()();
   // this does not make any sense.
   // line 27 can be changed to "function funkyFunction(){" with no change..
     // what's the point in declaring a variable of a function?
-  
