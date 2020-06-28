@@ -12,8 +12,8 @@ function yourAnimal() {
   // and the above function both pass?
   // P.S.: Hard-coding 'cat' below will not work
   var internal = cat; // isn't this hard-coding?..
-  animal = internal;
-  return animal
+  // animal = internal;
+  return internal;
 }
 
 function add2(n) {
