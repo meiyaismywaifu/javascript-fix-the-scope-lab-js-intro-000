@@ -35,7 +35,7 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()();
   // this does not make any sense.
   // line 27 can be changed to "function funkyFunction(){" with no change..
-  // what's the point in declaring a variable of a function?
+  // ..then what's the point in declaring a variable of a function?
     // "var greeting will equal inner(name)"
     // "why"
     // "Because that's what outer is returning"
