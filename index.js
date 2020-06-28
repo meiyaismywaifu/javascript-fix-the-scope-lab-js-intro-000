@@ -35,4 +35,15 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()();
   // this does not make any sense.
   // line 27 can be changed to "function funkyFunction(){" with no change..
-    // what's the point in declaring a variable of a function?
+  // what's the point in declaring a variable of a function?
+    // "var greeting will equal inner(name)"
+    // "why"
+    // "Because that's what outer is returning"
+    // "oh i see.
+    // but why is greeting a var and not a function
+    // you can pass arguments into vars now?"
+    // "because you can store functions in varaiables"
+    // "what the fuck
+    // why"
+    // "javascript is a nightmare
+    // It's due to the asynchronous functionality of javascript"
