@@ -49,4 +49,4 @@ var funkyFunction = function() {
     // It's due to the asynchronous functionality of javascript"
 var internal = funkyFunction();
 var theFunk = internal();
-  // ok that's better.
+  // ok that's better. still unclear though.
