@@ -34,3 +34,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk = funkyFunction()();
   // this does not make any sense.
+  // line 27 can be changed to "function funkyFunction(){" with no change..
+  
