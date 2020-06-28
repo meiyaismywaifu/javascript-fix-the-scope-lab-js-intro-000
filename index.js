@@ -32,7 +32,7 @@ var funkyFunction = function() {
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
 // NOTE: you only need to modify the code below this line.
-var theFunk = funkyFunction()();
+// var theFunk = funkyFunction()();
   // this does not make any sense.
   // line 27 can be changed to "function funkyFunction(){" with no change..
   // ..then what's the point in declaring a variable of a function?
@@ -47,3 +47,5 @@ var theFunk = funkyFunction()();
     // why"
     // "javascript is a nightmare
     // It's due to the asynchronous functionality of javascript"
+var internal = funkyFunction();
+var theFunk = internal();
