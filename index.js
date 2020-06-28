@@ -18,7 +18,8 @@ function yourAnimal() {
 
 function add2(n) {
   const two = 2;
-  return n + two;
+  var internal = n;
+  return internal + two;
   // Feel free to move things around!
 
 }
