@@ -50,3 +50,4 @@ var funkyFunction = function() {
 var internal = funkyFunction();
 var theFunk = internal();
   // that's vaguely better. still unclear though.
+  // better in the sense that it's more generalized for closed functions that have names.
